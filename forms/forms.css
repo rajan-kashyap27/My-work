@@ -1,0 +1,70 @@
+.regform{
+    font-size: 30px;
+    font-weight: 800;
+}
+button   {
+    background-color: blue;
+    color: white;
+    border: none;
+    padding: 5px 10px;
+}
+button:hover{
+    background-color:  #007bff;
+}
+
+input
+{
+    width: 100%;
+    padding: 10px 0px ;
+    margin-bottom: 20px;
+}
+textarea[name="comment"]{
+width: 100%;
+padding: 30px 0px;
+margin-top: 10px;
+}
+form {
+    margin:  auto;
+    max-width: 600px;
+    padding: 20px 40px;
+    background-color: #fff;
+    border-radius: 8px;
+    box-shadow: 0 0 10px  grey;
+}
+header{
+    text-align: center;
+    padding: 20px 0px;
+}
+
+#course{
+    margin: 10px 0px;
+}
+    
+.error {
+    color: red;
+    font-size: 14px;
+}
+h2 {
+    text-align: center;
+    padding-top: 30px;
+}
+
+input[type ="submit"] {
+    width: 100%;
+    background-color: #007bff;
+    border: none;
+    padding: 10px 0px;
+    color: white;
+    font-size: 15px;
+}
+input[type ="submit"]:hover {
+    background-color: lightskyblue; 
+}
+
+
+
+
+
+
+
+
